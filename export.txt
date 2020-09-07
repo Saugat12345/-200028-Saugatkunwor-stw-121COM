@@ -1,13 +1,13 @@
 Below is a list of dates and times with a film showing. The comma separated lines below are of the order: date, time, title, number of booked seats, number of available seats.
-Monday 14/01/19, 1pm, Gimme all your money, 40, 60
-Monday 14/01/19, 3pm, Lady Gaga Gath a Gadie Goodie Gadie Spectacular, 32, 68
+Monday 14/01/19, 1pm, Godfather, 40, 60
+Monday 14/01/19, 3pm, spiderman far from home , 32, 68
 Tuesday 15/01/19, 2pm, Fire alarm testing, 71, 29
 Tuesday 15/01/19, 5pm, The floor is lava, 30, 70
 Tuesday 15/01/19, 10pm, Nicolas Cage, 52, 48
 Wednesday 16/01/19, 6pm, How to bathe, 60, 40
 Wednesday 16/01/19, 10pm, Meditation, 20, 80
 Thursday 17/01/19, 3pm, Lynda - What is it all for?, 92, 8
-Thursday 17/01/19, 9pm, Gimme all your money, 60, 40
+Thursday 17/01/19, 9pm, Godfather, 60, 40
 Friday 18/01/19, 1pm, Meditation, 48, 52
 Friday 18/01/19, 4pm, McHappyTimes, 60, 40
 Friday 18/01/19, 6pm, Penguin, 100, 0
